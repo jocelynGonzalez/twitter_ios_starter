@@ -16,8 +16,13 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='https://imgur.com/W3NhJZy' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Links: 
+    -https://imgur.com/W3NhJZy
+    -https://i.imgur.com/zREyqXr
+    -https://i.imgur.com/xsN7srP
+    -https://i.imgur.com/wGUbeoH
+    
+<img src='https://imgur.com/W3NhJZy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='https://i.imgur.com/zREyqXr.gif' title='Video Walkthrough 2' width='' alt='Video Walkthrough' />
 
@@ -47,6 +52,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='https://imgur.com/kS9hR21' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Link:
+    -https://imgur.com/kS9hR21 
+<img src='https://imgur.com/kS9hR21.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
