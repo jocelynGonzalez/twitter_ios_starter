@@ -16,7 +16,9 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 Links: 
+
     -https://imgur.com/W3NhJZy
     -https://i.imgur.com/zREyqXr
     -https://i.imgur.com/xsN7srP
@@ -52,7 +54,10 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 Link:
+
     -https://imgur.com/kS9hR21 
+    
 <img src='https://imgur.com/kS9hR21.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
